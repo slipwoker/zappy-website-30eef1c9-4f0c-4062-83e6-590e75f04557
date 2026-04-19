@@ -5774,6 +5774,25 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+.index-hero-section .index-hero-tagline {
+  font-family: 'Rubik', sans-serif;
+  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--accent);
+  margin: -10px 0 24px;
+  text-align: right;
+  letter-spacing: 0.02em;
+  opacity: 0.92;
+}
+
+.index-hero-section .index-hero-tagline {
+  font-size: clamp(1.4rem, 3vw, 2rem) !important;
+  color: var(--accent) !important;
+  margin: -8px 0 28px !important;
+  opacity: 1 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
