@@ -6229,6 +6229,10 @@ body.accessibility-widget-visible ._access-menu {
 .navbar {
   overflow: hidden;
 }
+
+.navbar .nav-menu a {
+  font-size: 20px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
