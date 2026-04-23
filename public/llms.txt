@@ -8,6 +8,10 @@
 https://example.com
 A premium medical tourism service combining advanced hair transplant procedures in Thailand with a luxury vacation experience. The brand emphasizes personal acc
 
+### בית (EN)
+https://example.com/en/
+A premium medical tourism service combining advanced hair transplant procedures in Thailand with a luxury vacation experience. The brand emphasizes personal acc
+
 ## Legal & Policy
 
 ### Privacy Policy
